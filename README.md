@@ -4,8 +4,8 @@
   Суббота 16:00
 ***
 ## Содержание
-Урок 1 - Что такое машинное обучение? Основные термины и определения. Знакомство с Python
-Тест https://docs.google.com/forms/d/e/1FAIpQLSdK9UmdVZRumC6q3qA52BPiMiP3aWeHIBotelg_R83ztTPRTA/viewform?usp=sf_link
+Урок 1 - Что такое машинное обучение? Основные термины и определения. Знакомство с Python  
+[Тест 1](https://docs.google.com/forms/d/e/1FAIpQLSdK9UmdVZRumC6q3qA52BPiMiP3aWeHIBotelg_R83ztTPRTA/viewform?usp=sf_link)
 ...
 ***
 ## Рекомендуемая литература  
