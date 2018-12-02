@@ -18,7 +18,7 @@
 - [Основы статистики](https://stepik.org/course/76/syllabus)
 - [Линейная алгебра](https://stepik.org/course/2461/syllabus)
 #### Продвинутые онлайн курсы
-- [Дискретные структуры](https://stepik.org/course/2461/syllabus)
+- [Дискретные структуры](https://stepik.org/course/83/syllabus)
 - [Введение в математический анализ](https://stepik.org/course/95/syllabus)
 
 ## Дополнительно
