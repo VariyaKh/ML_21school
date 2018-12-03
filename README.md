@@ -11,7 +11,7 @@
 ### Требуемое ПО
 [Anconda](https://www.anaconda.com/download/#linux) Python 3.*   
 Для запуска jypyter из нужной директории в командной строке прописываем:   
-<code>jupyter notebook<\code>
+<code>jupyter notebook</code>
 ## Рекомендуемая литература  
 - [Мюллер, Гвидо: Введение в машинное обучение с помощью Python. Руководство для специалистов по работе с данными](https://www.labirint.ru/books/595088/)
 - ["Введение в статистическое обучение с примерами на языке R" Джеймс Гарет, Уиттон Даниела, Хастингс Тревор, Тибширани Роберт](https://dmkpress.com/catalog/computer/statistics/978-5-97060-293-5/)
