@@ -4,9 +4,10 @@
   Суббота 16:00
 ***
 ## Содержание
-Урок 1 - Что такое машинное обучение? Основные термины и определения. Знакомство с Python  
-[Тест 1](https://docs.google.com/forms/d/e/1FAIpQLSdK9UmdVZRumC6q3qA52BPiMiP3aWeHIBotelg_R83ztTPRTA/viewform?usp=sf_link)
-...
+Урок 1 - Что такое машинное обучение? Основные термины и определения. kNN. Знакомство с Python 
+[Тест 1](https://docs.google.com/forms/d/e/1FAIpQLSdK9UmdVZRumC6q3qA52BPiMiP3aWeHIBotelg_R83ztTPRTA/viewform?usp=sf_link)  
+Урок 2 - Разбор практики. Повторение. Алгоритм наивного Байеса. Знакомство с Python 2.   
+
 ***
 ### Требуемое ПО
 [Anconda](https://www.anaconda.com/download/#linux) Python 3.*   
