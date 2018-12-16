@@ -6,7 +6,7 @@
 ## Содержание
 Урок 1 - Что такое машинное обучение? Основные термины и определения. kNN. Знакомство с Python 
 [Тест 1](https://docs.google.com/forms/d/e/1FAIpQLSdK9UmdVZRumC6q3qA52BPiMiP3aWeHIBotelg_R83ztTPRTA/viewform?usp=sf_link)  
-Урок 2 - Теория вероятностей. Алгоритм наивного Байеса [Тест 2](https://goo.gl/form/aVlZCMPYGCTeTOSw1)    
+Урок 2 - Теория вероятностей. Алгоритм наивного Байеса [Тест 2](https://docs.google.com/forms/d/e/1FAIpQLSdNPflJV8fXTFMuQuZ1C2GR3gkKv32SuQ-O6vZX_iwCamFR1Q/viewform)    
 Урок 3 - Знакомство с библиотекой pandas и sklearn. Классификация признаков. Предобработка данных       
 Урок 4 - Линейные алгоритмы   
 Урок 5 - Решающее дерево. Аансамбли алгоритмов (случайный лес и бустинг). Смещение и дисперсия   
